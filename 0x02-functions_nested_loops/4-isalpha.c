@@ -1,15 +1,15 @@
 #include "main.h"
 /**
- * _isalpha - shows 1 if the input is c 
+ * _isalpha - shows 1 if the input is c
  * letter another cases shows 0
  *
- * @c: the character in ASCII code 
+ * @c: the character in ASCII code
  *
- * Return 1 for letters. Return 0 otherwise
+ * Return: 1 for letters. Return 0 otherwise
  */
 int _isalpha(int c)
 {
-if ((c >= 97 && c <= 122) || ( c >= 65 && c <= 90))
+if((c >= 97 && c <= 122) || ( c >= 65 && c <= 90))
 {
 return (1);
 }
