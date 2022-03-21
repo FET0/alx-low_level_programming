@@ -1,7 +1,7 @@
 #ifndef _MAIN_H_
 #define _MAIN_H_
 
-void putchar (char c);
+void _putchar (char c);
 
 void reset_to_9(int *n);
 
