@@ -10,11 +10,9 @@ int main(void)
 {
 
 int x = 97;
-do
-{
-putchar(x++); 
-}
-while(x <= 122);
+do{
+putchar(x++);
+}while (x <= 122);
 putchar('\n');
 return (0);
 }
