@@ -9,11 +9,12 @@
 int main(void)
 {
 
-int x;
-for(x = 97; x >= 122; x++)
+int x = 97;
+do
 {
-putchar(x);
+putchar(x++); 
 }
-
+while(x <= 122);
+putchar('\n');
 return (0);
 }
