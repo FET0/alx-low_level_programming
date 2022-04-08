@@ -13,9 +13,9 @@ int x = 97, y = 65;
 do {
 putchar(x++);
 }while (x <= 122);
-do{
+do {
 putchar(y++);
-}while (y <= 90);
+} while (y <= 90);
 putchar('\n');
 return (0);
 }
