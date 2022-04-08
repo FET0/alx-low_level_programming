@@ -12,7 +12,7 @@ int main(void)
 int x = 97, y = 65;
 do {
 putchar(x++);
-}while (x <= 122);
+} while (x <= 122);
 do {
 putchar(y++);
 } while (y <= 90);
