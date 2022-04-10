@@ -6,7 +6,7 @@
  *
  * Return: Always (0) Success
  */
-int main (void)
+int main(void)
 {
 int x = 48;
 int y = 97;
