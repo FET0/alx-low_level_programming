@@ -11,7 +11,7 @@ int main(void)
 int x = 122;
 do {
 putchar(x--);
-} while(x >= 97);
+} while (x >= 97);
 putchar('\n');
 return (0);
 }
