@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- *main - Entry Point 
+ *main - Entry Point
  *
  *description: to print numbers using putchar
  *
@@ -8,11 +8,10 @@
  */
 int main(void)
 {
-int x =48;
+int x = 48;
 do {
 putchar(x++);
-}
-while(x <= 57);
+} while (x <= 57);
 putchar('\n');
 return (0);
 
