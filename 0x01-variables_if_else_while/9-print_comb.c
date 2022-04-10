@@ -2,15 +2,14 @@
 /**
  * main - Entry Point
  *
- * description: to print all possible combination of single digit numbers in ascending order
+ * description: print possible combination of single digit numbers
  *
  * Return: Always (0) Success
  */
 int main(void)
 {
 int x = 48, y = 44, z = 32;
-do
-{
+do {
 putchar(x++);
 if (x <= 57)
 {
