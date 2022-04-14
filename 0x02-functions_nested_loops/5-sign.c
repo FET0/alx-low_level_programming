@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "main.h"
 /**
  * print_sign - determines if the input number 
@@ -9,27 +8,24 @@
  * Return: 1 is greater than zero, 0 is zero.
  * -1 is less than zero
  */
-int main(void)
-{
-int print_sign(int n)
 
+int print_sign(int n)
 {
+int a = 43, b = 45, c = 48;
 if (n > 0)
 {
-_putchar(43);
+_putchar(a);
 return(1);
 }
 else if (n < 0)
 {
-_putchar(45);
+_putchar(b);
 return (-1);
 }
 else
 {
-_putchar(48);
+_putchar(c);
 return 0;
 }
 _putchar('\n');
-
-}
 }
