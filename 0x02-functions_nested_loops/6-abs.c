@@ -2,9 +2,11 @@
 /**
  * main - Entry Point
  *
- *@_abs: print absolute value of in
+ *_abs: print absolute value of in
  *
  *@n: input number as an integer
+ *
+ * Description: it's my function damnit
  *
  * Return:Always (0) success
  */
