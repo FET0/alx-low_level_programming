@@ -1,8 +1,6 @@
 #include "main.h"
 /**
- * main - Entry Point
- *
- *_abs: print absolute value of in
+ *_abs - print absolute value of int
  *
  *@n: input number as an integer
  *
