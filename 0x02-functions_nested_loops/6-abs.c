@@ -2,7 +2,7 @@
 /**
  * main - Entry Point
  *
- *_abs: print absolute value of in
+ *@_abs: print absolute value of in
  *
  *@n: input number as an integer
  *
