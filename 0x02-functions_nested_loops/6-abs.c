@@ -2,7 +2,9 @@
 /**
  * main - Entry Point
  *
- * description for _abs: print absolute value of int
+ *_abs: print absolute value of in
+ *
+ *@n: input number as an integer
  *
  * Return:Always (0) success
  */
